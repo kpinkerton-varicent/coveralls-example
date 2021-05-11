@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/kpinkerton-varicent/coveralls-example/badge.svg)](https://coveralls.io/github/kpinkerton-varicent/coveralls-example)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
